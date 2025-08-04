@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **deepankarsharmakgt@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ujAsycfFaUczRF-9yPix2WyzKNuDvoVpniZJbP-dCl0/edit?usp=sharing](https://docs.google.com/document/d/1ujAsycfFaUczRF-9yPix2WyzKNuDvoVpniZJbP-dCl0/edit?usp=sharing)
+- 📄 Know about my experiences ]<a href="https://docs.google.com/document/d/1ujAsycfFaUczRF-9yPix2WyzKNuDvoVpniZJbP-dCl0/edit?usp=sharing"><img src="https://imgs.search.brave.com/ocYlXfLv7XznaIVtOo8eGs-5sv_M-yqwmyrEB18Iq-4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvdmFwb3J3/YXZlLWNsaWNrLW1l/LWhxdWRienB3ZTVj/Nnljb2UuZ2lm.jpeg" alt="Resume" width="250" height="100"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
