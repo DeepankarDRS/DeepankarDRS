@@ -10,7 +10,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/deepankardrs">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;Software+Engineer;Passionate+about+Data+Science;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;Software+Engineer;Passionate+about+Data+Science;Language+Agnostic;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -56,10 +56,12 @@
 </p>
 
 ### 🔥 GitHub Streak
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=deepankardrs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-### 🎮 Play Deepankar-Man AI Pac-Man
+
+
 
 [![Play AI Pac-Man](https://i.giphy.com/media/9J7tdYltWyXIY/giphy.webp)](https://deepankardrs.github.io/deepankar-ai-pacman/)
 
@@ -73,6 +75,6 @@
 ### 🏆 Badges
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%2FML-blue?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=flat&logo=github" />
+ 
   <img src="https://img.shields.io/badge/Currently%20Learning-Deep%20Learning-orange?style=flat&logo=tensorflow" />
 </p>
