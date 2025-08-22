@@ -25,7 +25,7 @@
 
 ### 📫 How to reach me
 - **Email:** [deepankarsharmakgt@gmail.com](mailto:deepankarsharmakgt@gmail.com)
-- **LinkedIn:** [Deepankar Sharma](https://linkedin.com/in/deepankar-sharma-82a324328)
+- **LinkedIn:** [Deepankar Sharma](https://www.linkedin.com/in/deepankar-sharma-drs/)
 - **Portfolio/Resume:** [Click Here](https://docs.google.com/document/d/1ujAsycfFaUczRF-9yPix2WyzKNuDvoVpniZJbP-dCl0/edit?usp=sharing)
 
 ---
