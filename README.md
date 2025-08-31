@@ -61,9 +61,11 @@
   <img src="https://streak-stats.demolab.com?user=deepankardrs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
-
-[![Play AI Pac-Man](https://i.giphy.com/media/9J7tdYltWyXIY/giphy.webp)](https://deepankardrs.github.io/deepankar-ai-pacman/)
+<p align="center">
+  <a href="https://deepankardrs.github.io/deepankar-ai-pacman/">
+    <img src="https://i.giphy.com/media/9J7tdYltWyXIY/giphy.webp" alt="Play AI Pac-Man">
+  </a>
+</p>
 
 ---
 
