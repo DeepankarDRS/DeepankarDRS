@@ -1,7 +1,7 @@
 <!-- Title & Subtitle -->
  <h1 align="center">Deepankar Sharma</h1> 
  
-<h3 align="center">AI/ML Enthusiast | Software Engineer|Language Agnostic</h3>
+<h3 align="center">AI/ML Enthusiast | Software Engineer | Language Agnostic</h3>
 
 <!-- Profile Views Counter -->
 <p align="center">
