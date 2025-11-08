@@ -1,5 +1,5 @@
 <!-- Title & Subtitle -->
-<h1 align="center">Hi 👋, I'm Deepankar Sharma</h1>
+<!-- <h1 align="center">Hi 👋, I'm Deepankar Sharma</h1> -->
 <h3 align="center">AI/ML Enthusiast | Software Engineer</h3>
 
 <!-- Profile Views Counter -->
